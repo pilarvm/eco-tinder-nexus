@@ -37,7 +37,7 @@ const CompanyRegisterForm = ({ onRegister }) => {
       </h2>
       <form className="flex flex-col gap-5" onSubmit={handleSubmit}>
         <div>
-          <label className="block text-base font-medium mb-1">Nombre Emprecita/label>
+          <label className="block text-base font-medium mb-1">Nombre Emprecita</label>
           <input
             name="companyName"
             className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-green-200 text-sm"
