@@ -94,4 +94,3 @@ const CompanyRegisterForm = ({ onRegister }) => {
 };
 
 export default CompanyRegisterForm;
-
